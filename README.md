@@ -1,2 +1,2 @@
-# simpleenc4x2
+# simple enc4x2
 Its a simple encoder 4 x 2 with testbench
